@@ -1,0 +1,43 @@
+body{
+	font-family: "Montserrat",sans-serif;
+}
+
+#carsList{
+	border-radius: 15px;
+	border-width: 3px;
+	border-color: black;
+}
+
+#car-photo{
+	max-width:900px;
+}
+
+.lead{
+	font-weight: 600;
+}
+
+#abtUs{
+	display: inline-block;
+	max-width: 50%;
+}
+
+p.h1{
+	font-weight: 800;
+}
+
+#icon-text{
+	font-weight: 500;
+	font-size: large;
+}
+
+.contact-text {
+  border: 1px solid black;
+  margin: 1rem;
+  padding: 2rem 2rem;
+  text-align: center;
+}
+#map_inner {
+  display: inline-block;
+  padding: 1rem 1rem;
+  vertical-align: middle;
+}
